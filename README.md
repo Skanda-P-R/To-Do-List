@@ -106,7 +106,9 @@ This component:
 
 ## 📷 Screenshot
 
-![Screenshot](Frontend\public\image.png)
+<p align="center">
+<img src="Frontend/public/image.png" style="width: 400px; height: auto;" />
+</p>
 
 ---
 
